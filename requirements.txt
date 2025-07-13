@@ -1,0 +1,9 @@
+moviepy
+yt-dlp
+requests
+pillow
+tk
+qrcode
+pdf2docx
+docx2pdf
+pdf2image
